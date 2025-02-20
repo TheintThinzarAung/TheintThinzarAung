@@ -29,12 +29,51 @@ I'm passionate about transforming raw data into actionable insights through inno
 
 ## My Skills
 
+## 🚀 Technical Skills
 <div align="center">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="PowerBI">
-  <img src="https://img.shields.io/badge/Dashboard-4285F4?style=flat&logo=googleanalytics&logoColor=white" alt="Dashboard">
-  <img src="https://img.shields.io/badge/Data%20Analytics-FF6600?style=flat&logo=appveyor&logoColor=white" alt="Data Analytics">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  
+### 📊 Business Intelligence & Data Visualization
+<a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/></a>
+<a href="https://www.tableau.com/"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/></a>
+<a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" alt="Matplotlib"/></a>
+<a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="48" alt="Seaborn"/></a>
+<a href="https://www.canva.com/"><img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/></a>
+
+---
+
+### 🛢️ Database & Data Processing
+<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL"/></a>
+<a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" alt="Pandas"/></a>
+<a href="https://numpy.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" alt="NumPy"/></a>
+
+---
+
+### 🔍 Analytics & Performance Tracking
+✅ Data Analysis | ✅ Predictive Modeling | ✅ Trend Analysis  
+✅ KPI Tracking | ✅ DAX Functions | ✅ Data Transformation  
+✅ Real-Time Data Tracking | ✅ Performance Monitoring
+
+---
+
+### 📑 Software & Productivity Tools
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" alt="Word"/></a>
+<a href="https://workspace.google.com/"><img src="https://img.icons8.com/color/48/000000/google-drive.png" alt="Google Workspace"/></a>
+
+---
+
+### 🏗️ Engineering & Design
+<a href="https://www.autodesk.com/products/autocad/overview"><img src="https://img.icons8.com/color/48/000000/autocad.png" alt="AutoCAD"/></a>
+<a href="https://www.autodesk.com/products/revit/overview"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Revit_MEP_Icon.png/48px-Revit_MEP_Icon.png" alt="Revit"/></a>
+<a href="https://www.csiamerica.com/products/etabs"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/ETABS_logo.png" width="48" alt="ETABS"/></a>
+
+---
+
+### 🖥️ Operating Systems
+<a href="https://www.apple.com/macos/"><img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS"/></a>
+<a href="https://www.microsoft.com/en-us/windows"><img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows"/></a>
+
 </div>
 
 ---
