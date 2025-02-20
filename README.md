@@ -77,7 +77,7 @@ I'm passionate about transforming raw data into actionable insights through inno
 Feel free to reach out if you have questions, ideas, or opportunities!
 
 - **LinkedIn:** [Theint Thinzar Aung](https://www.linkedin.com/in/theint-thinzar-aung/)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [theintthinzaraung1995@gmail.com](mailto:theintthinzaraung1995@gmail.com)
 
 ---
 
