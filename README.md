@@ -1,110 +1,38 @@
-# Hi, I'm Theint Thinzar Aung 👋 
-
-## 📊 Data-Driven Professional | Data Analyst | Power BI Developer | SQL Developer
-
-Welcome to my GitHub profile! Think of this page as an interactive **Power BI dashboard**, where each section is represented as a **data card**, making your exploration seamless and insightful. 📈📊
 
 ---
 
-## 📌 Dashboard Overview
+## 🧑‍💻 About Me & 🛠 Skills & Tech
 
-```
------------------------------------------
-| 🧑‍💻 About Me  | 🛠 Skills & Tech   |
-| 📊 Projects   | 🎓 Certifications  |
-| 📬 Contact    | 📈 GitHub Stats    |
------------------------------------------
-```
+| **🧑‍💻 About Me** | **🛠 Skills & Technologies** |
+| ----------------- | -------------------------- |
+| 📍 **Bay Area, CA**<br>📌 **Data Analyst | Power BI Developer | SQL Developer**<br>**Specializes in Power BI dashboard development, data visualization, and business intelligence.**<br>Proficient in Python, SQL, and statistical analysis. | ### 🖥 Programming & Databases:<br>📌 Python | SQL | Machine Learning<br>### 🏗 Frameworks & Libraries:<br>📌 Scikit-learn | Pandas | NumPy<br>### ☁️ Cloud & Tools:<br>📌 AWS | GCP | Azure | Docker<br>### 📊 Data Visualization:<br>📌 Power BI | Tableau | Matplotlib |
+| **📊 Projects & Achievements** | **🎓 Certifications** |
+| 📌 **Sales Dashboard** *(Power BI, DAX, KPI Tracking)*<br>📌 **Ride Cabs Price Prediction** *(Python, Seaborn, Predictive Modeling)*<br>📌 **WHO Life Expectancy Prediction** *(Data Wrangling, Statistical Analysis)* | 📜 **Microsoft Data Analysis and Visualization with Power BI**<br>📜 **Microsoft Azure SQL**<br>📜 **IBM Databases and SQL for Data Science with Python**<br>📜 **Python for Data Science and Machine Learning** |
 
 ---
 
-## 🧑‍💻 About Me
-📍 **Bay Area, CA**  
-📌 **Data Analyst | Power BI Developer | SQL Developer**  
-📌 **Specializes in Power BI dashboard development, data visualization, and business intelligence.**  
-📌 **Proficient in Python, SQL, and statistical analysis, delivering impactful insights.**  
+## 📬 Contact & 📈 GitHub Stats
 
----
-
-## 🛠 Skills & Technologies
-
-### 🖥 Programming & Databases
-📌 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-📌 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
-📌 Machine Learning | Prompt Engineering  
-
-### 🏗 Frameworks & Libraries
-📌 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)  
-📌 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
-📌 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
-📌 PyTorch | SQLAlchemy  
-
-### ☁️ Cloud & Tools
-📌 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
-📌 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)  
-📌 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)  
-📌 Docker | REST API  
-
-### 📊 Data Visualization
-📌 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
-📌 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
-📌 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)  
-📌 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)  
-📌 Advanced Excel (VBA, Pivot Tables)  
-
----
-
-## 📊 Projects & Achievements
-
-📌 **Sales Dashboard** *(Power BI, DAX, KPI Tracking, Performance Metrics)*  
-📌 **Ride Cabs Price Prediction** *(Python, Seaborn, Predictive Modeling, Trend Analysis)*  
-📌 **WHO Life Expectancy Prediction** *(Data Wrangling, Visualization, Statistical Analysis)*  
-
-📌 **MWD Media Center Project** *(SQL, Power BI, Real-Time Tracking, Report Automation)*  
-📌 **Indoor Multi-Sports Building** *(Resource Allocation, Efficiency Improvement)*  
-📌 **MGD International Hospital RCC Building** *(Timeline Optimization, Delay Reduction)*  
-
----
-
-## 🎓 Certifications
-📜 Microsoft Data Analysis and Visualization with Power BI  
-📜 Microsoft Azure SQL  
-📜 IBM Databases and SQL for Data Science with Python  
-📜 The Complete Python Pro Bootcamp  
-📜 Data Structures and Algorithms in Python  
-📜 Python for Data Science and Machine Learning  
-📜 The Ultimate MySQL Bootcamp  
-
----
-
-## 📬 Contact & Socials
-📧 **Email:** [theintthinzaraung1995@gmail.com](mailto:theintthinzaraung1995@gmail.com)  
-🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/theintthinzaraung/)  
-🐙 **GitHub:** [@TheintThinzarAung](https://github.com/TheintThinzarAung)  
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheintThinzarAung&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheintThinzarAung&layout=compact&theme=radical)  
+| **📬 Contact** | **📈 GitHub Stats** |
+| -------------- | ------------------- |
+| 📧 **Email:** [theintthinzaraung1995@gmail.com](mailto:theintthinzaraung1995@gmail.com)<br>🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/theintthinzaraung/)<br>🐙 **GitHub:** [@TheintThinzarAung](https://github.com/TheintThinzarAung) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheintThinzarAung&show_icons=true&theme=radical)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheintThinzarAung&layout=compact&theme=radical) |
 
 ---
 
 ## 📊 Data Visualization Dashboard
 
-### **Skill Distribution**
-![Skill Pie Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/skills_pie_chart.svg)
+| **Skill Distribution** | **Project Contributions** |
+| ---------------------- | ------------------------- |
+| ![Skill Pie Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/skills_pie_chart.svg) | ![Project Bar Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/project_bar_chart.svg) |
 
-### **Project Contributions**
-![Project Bar Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/project_bar_chart.svg)
+| **Technology Usage** | **Resource Utilization** |
+| --------------------- | ------------------------ |
+| ![Technology Tree Map](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/technology_tree_map.svg) | ![Resource Gauge Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/resource_gauge_chart.svg) |
 
-### **Technology Usage Tree Map**
-![Technology Tree Map](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/technology_tree_map.svg)
+| **Cost Optimization** |
+| --------------------- |
+| ![Cost Waterfall Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/cost_waterfall_chart.svg) |
 
-### **Resource Utilization (Gauge Chart)**
-![Resource Gauge Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/resource_gauge_chart.svg)
+---
 
-### **Cost Optimization Waterfall Chart**
-![Cost Waterfall Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/cost_waterfall_chart.svg)
-
-🔍 **Explore my profile as if analyzing a dataset! Let’s connect and create impactful data-driven solutions together.** 🚀
+### **🔍 Explore my profile as if analyzing a dataset! Let’s connect and create impactful data-driven solutions together.** 🚀
