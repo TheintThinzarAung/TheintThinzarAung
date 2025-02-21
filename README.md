@@ -1,4 +1,4 @@
-# Hi, I'm Theint Thinzar Aung 👋
+# Hi, I'm Theint Thinzar Aung 👋 
 
 ## 📊 Data-Driven Professional | Data Analyst | Power BI Developer | SQL Developer
 
@@ -93,24 +93,18 @@ Welcome to my GitHub profile! Think of this page as an interactive **Power BI da
 ## 📊 Data Visualization Dashboard
 
 ### **Skill Distribution**
-![Skill Pie Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/skills_pie_chart.svg)  
+![Skill Pie Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/skills_pie_chart.svg)
 
 ### **Project Contributions**
-![Project Bar Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/project_bar_chart.svg)  
+![Project Bar Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/project_bar_chart.svg)
 
 ### **Technology Usage Tree Map**
-![Technology Tree Map](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/technology_tree_map.svg)  
+![Technology Tree Map](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/technology_tree_map.svg)
 
-### **Waterfall Chart - Learning Progress**
-![Waterfall Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/waterfall_chart.svg)  
+### **Resource Utilization (Gauge Chart)**
+![Resource Gauge Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/resource_gauge_chart.svg)
 
-### **Bottleneck Analysis - Time Allocation**
-![Bottleneck Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/bottleneck_chart.svg)  
-
-### **Gauge Chart - Skill Proficiency**
-![Gauge Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/gauge_chart.svg)  
-
-### **Geographical Map - Project Locations**
-![Geographical Map](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/project_map.svg)  
+### **Cost Optimization Waterfall Chart**
+![Cost Waterfall Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/cost_waterfall_chart.svg)
 
 🔍 **Explore my profile as if analyzing a dataset! Let’s connect and create impactful data-driven solutions together.** 🚀
