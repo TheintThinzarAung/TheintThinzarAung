@@ -21,6 +21,10 @@
 
 ## 📊 Data Visualization Dashboard
 
+Here’s a **Tableau-style dashboard** with four cards for a better experience!
+
+### **🔳 Dashboard Cards:**
+
 | **Skill Distribution** | **Project Contributions** |
 | ---------------------- | ------------------------- |
 | ![Skill Pie Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/skills_pie_chart.svg) | ![Project Bar Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/project_bar_chart.svg) |
@@ -29,9 +33,9 @@
 | --------------------- | ------------------------ |
 | ![Technology Tree Map](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/technology_tree_map.svg) | ![Resource Gauge Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/resource_gauge_chart.svg) |
 
-| **Cost Optimization** |
-| --------------------- |
-| ![Cost Waterfall Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/cost_waterfall_chart.svg) |
+| **Cost Optimization** | |
+| --------------------- | ------------------------ |
+| ![Cost Waterfall Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/cost_waterfall_chart.svg) | |
 
 ---
 
