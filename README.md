@@ -88,4 +88,17 @@ Welcome to my GitHub profile! Think of this page as an interactive **Power BI da
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheintThinzarAung&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheintThinzarAung&layout=compact&theme=radical)  
 
+---
+
+## 📊 Data Visualization Dashboard
+
+### **Skill Distribution**
+![Skill Pie Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/skills_pie_chart.svg)
+
+### **Project Contributions**
+![Project Bar Chart](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/project_bar_chart.svg)
+
+### **Technology Usage Tree Map**
+![Technology Tree Map](https://github.com/TheintThinzarAung/github-profile-visuals/blob/main/technology_tree_map.svg)
+
 🔍 **Explore my profile as if analyzing a dataset! Let’s connect and create impactful data-driven solutions together.** 🚀
