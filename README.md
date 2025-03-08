@@ -2,7 +2,7 @@
 <h3 align="center">A Data Analyst from Silicon Valley</h3>
 
 <p align="center">
-  <img src="https://github.com/TheintThinzarAung/test/blob/main/DataAnalyst.gif" alt="Data Analyst GIF" width="600"/>
+  <img src="https://github.com/TheintThinzarAung/TheintThinzarAung/blob/main/DataAnalyst.gif"/>
 </p>
 
 ---
