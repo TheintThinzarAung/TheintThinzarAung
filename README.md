@@ -13,7 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=theintthinzaraung&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-- 🔭 I’m currently working on **Capstone Project**
 - 📫 Reach me at **theintthinzaraung1995@gmail.com**
 
 ---
