@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Theint Thinzar Aung</h1>
-<h3 align="center">A Data Analyst in Silicon Valley</h3>
+<h3 align="center">AI Engineer in Silicon Valley</h3>
 
 <p align="center">
   <img src="https://github.com/TheintThinzarAung/TheintThinzarAung/blob/main/DataAnalyst.gif"/>
